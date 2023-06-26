@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning WebGPU/GL
+- 🌱 I’m currently learning WebGPU/GL/GLSL
 
 ### technologies i like
 
